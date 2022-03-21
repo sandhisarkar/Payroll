@@ -1,0 +1,117 @@
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmLogin.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.Properties.Resources.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.pdb
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\bin\Debug\NovaNet.Utils.dll
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\bin\Debug\NovaNet.Utils.pdb
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmMain.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPremisesList.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPremisesAdd.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmpremisesEdit.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmOfficeList.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmOfficeAdd.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmOfficeEdit.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDepList.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDepAdd.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDepEdit.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDesEdit.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDesList.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDesAdd.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankList.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankDetailsList.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdd.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankEdit.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankDetailsAdd.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankDetailsEdit.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdviceList.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdviceAdd.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdviceEdit.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmEmployeeDetails.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmEmployeeEdit.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmEmployeeAdd.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmESIChange.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPayrollList.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmMasterfile.resources
+C:\Users\Sandhi\Desktop\DEVELOP\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPayPeriodGenerate.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\bin\Debug\NovaNet.Utils.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdd.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdviceAdd.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdviceEdit.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdviceList.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankDetailsAdd.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankDetailsEdit.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankDetailsList.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankEdit.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankList.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDepAdd.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDepEdit.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDepList.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDesAdd.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDesEdit.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDesList.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmEmployeeAdd.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmEmployeeDetails.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmEmployeeEdit.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmESIChange.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmMasterfile.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmOfficeAdd.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmOfficeEdit.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmOfficeList.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmLogin.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmMain.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPayPeriodGenerate.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPayrollList.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPremisesAdd.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmpremisesEdit.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPremisesList.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.Properties.Resources.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.pdb
+D:\Sandhi Software\payroll\Payroll\Payroll\bin\Debug\Payroll.exe
+D:\Sandhi Software\payroll\Payroll\Payroll\bin\Debug\Payroll.pdb
+D:\Sandhi Software\payroll\Payroll\Payroll\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software\payroll\Payroll\Payroll\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.csprojResolveAssemblyReference.cache
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdd.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdviceAdd.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdviceEdit.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankAdviceList.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankDetailsAdd.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankDetailsEdit.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankDetailsList.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankEdit.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmBankList.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDepAdd.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDepEdit.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDepList.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDesAdd.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDesEdit.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmDesList.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmEmployeeAdd.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmEmployeeDetails.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmEmployeeEdit.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmESIChange.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmMasterfile.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmOfficeAdd.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmOfficeEdit.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmOfficeList.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmLogin.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmMain.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPayPeriodGenerate.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPayrollList.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPremisesAdd.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmpremisesEdit.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.frmPremisesList.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.Properties.Resources.resources
+D:\Sandhi Software\payroll\Payroll\Payroll\obj\x86\Debug\Payroll.csproj.GenerateResource.Cache
